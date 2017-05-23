@@ -183,7 +183,7 @@ class Wechat extends WechatCore {
         return this.login()
       })
   }
-
+//start
   start () {
     debug('启动中...')
     return this._login()
